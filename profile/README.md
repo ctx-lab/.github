@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctx-lab/.github/main/assets/hero-dark.png?v=2">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ctx-lab/.github/main/assets/hero-light.png?v=2">
-  <img alt="Context Lab" src="https://raw.githubusercontent.com/ctx-lab/.github/main/assets/hero-light.png?v=2" width="1600" height="400">
+  <img alt="Context Lab" src="https://raw.githubusercontent.com/ctx-lab/.github/main/assets/hero-light.png?v=2">
 </picture>
 
 Grounded engineering for information systems.
