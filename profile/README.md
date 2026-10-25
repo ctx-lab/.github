@@ -4,4 +4,8 @@ Grounded engineering for information systems.
 
 We write about the systems we build, the decisions behind them, and what happens when people use them.
 
+| Project | What it does | Status |
+|---|---|---|
+| [wolfcow](https://github.com/ctx-lab/wolfcow) | Runs coding agents in microVMs | Preview |
+
 [Read the field notes](https://ctx-lab.com/field-notes/) · [Meet the contributors](https://ctx-lab.com/contributors/)
