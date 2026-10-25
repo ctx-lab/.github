@@ -1,4 +1,4 @@
-![Context Lab](https://raw.githubusercontent.com/ctx-lab/.github/main/assets/hero.png)
+![Context Lab](https://raw.githubusercontent.com/ctx-lab/.github/867df51/assets/hero.png)
 
 Grounded engineering for information systems.
 
